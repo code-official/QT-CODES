@@ -1,0 +1,9 @@
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/functionsmod7.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/functionsmod7_autogen_timestamp_deps.dir
+C:/Users/dheer/Documents/build-functionsmod7-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/functionsmod7_autogen.dir
